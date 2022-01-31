@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Saaigoutham Ashokkumar </p>
 logo: /assets/img/logo.JPG
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/saaigoutham/">LinkedIn</a> |
+  <a href="https://github.com/saaigoutham">GitHub</a>
+  
+  <br>   
+  I'm working as Full Stack Test Lead.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
